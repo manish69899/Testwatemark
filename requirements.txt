@@ -1,0 +1,29 @@
+
+
+#TELEGRAM BOT FRAMEWORK
+
+pyrogram>=2.0.0
+TgCrypto>=1.2.0
+
+#PDF PROCESSING
+
+pypdf>=3.0.0
+reportlab>=4.0.0
+
+#IMAGE PROCESSING
+
+Pillow>=9.0.0
+
+#ENVIRONMENT & SERVER
+
+python-dotenv>=1.0.0
+flask>=2.0.0
+gunicorn>=20.1.0
+
+#SYSTEM MONITORING
+
+psutil>=5.9.0
+
+#ASYNC SUPPORT
+
+asyncio-throttle>=1.0.0
