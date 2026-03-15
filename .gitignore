@@ -5,3 +5,5 @@ processed
 temp
 venv
 txt.txt
+assests/
+.env
