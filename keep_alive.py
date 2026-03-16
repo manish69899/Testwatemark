@@ -116,7 +116,7 @@ def home():
 
 def run():
     # Port 7860 set kiya gaya hai kyunki Hugging Face Spaces Docker ke liye yahi standard hai
-    app.run(host='0.0.0.0', port=7860)
+    app.run(host='0.0.0.0', port=8080)
 
 def keep_alive():
     t = Thread(target=run)
